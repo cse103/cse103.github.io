@@ -6,8 +6,18 @@ layout: default
 
 <p>Instructor: <a href="https://github.com/yoavfreund" class="user-mention">@yoavfreund</a></p>
 
-```python
-import numpy as np
+<section id="posts">
+<ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-import pandas as pd
-```
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <p>{{ post.excerpt }}
+      </li>
+    {% endfor %}
+
+</ul>
+</section>
