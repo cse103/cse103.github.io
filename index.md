@@ -6,6 +6,10 @@ layout: default
 
 <p>Instructor: <a href="https://github.com/yoavfreund" class="user-mention">@yoavfreund</a></p>
 
+```python
+print "Hello, world!"
+```
+
 <div id="posts">
 <ul class="post-list">
 {% for post in site.posts %}

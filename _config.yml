@@ -9,4 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cse103.github.io" # the base hostname & protocol for your site
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
+
+kramdown:
+  input: GFM
