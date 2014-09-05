@@ -6,7 +6,7 @@ layout: default
 
 <p>Instructor: <a href="https://github.com/yoavfreund" class="user-mention">@yoavfreund</a></p>
 
-<section id="posts">
+<div id="posts">
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
@@ -19,4 +19,4 @@ layout: default
   </li>
 {% endfor %}
 </ul>
-</section>
+</div>
