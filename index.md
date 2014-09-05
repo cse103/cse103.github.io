@@ -7,7 +7,10 @@ layout: default
 <p>Instructor: <a href="https://github.com/yoavfreund" class="user-mention">@yoavfreund</a></p>
 
 ```python
+import numpy as np
 print "Hello, world!"
+x = 2 + 2
+t = (1, 2, 3)
 ```
 
 <div id="posts">
