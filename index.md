@@ -6,23 +6,13 @@ layout: default
 
 <p>Instructor: <a href="https://github.com/yoavfreund" class="user-mention">@yoavfreund</a></p>
 
-```python
-import numpy as np
-print "Hello, world!"
-x = 2 + 2
-t = (1, 2, 3)
-```
-
 <div id="posts">
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
-    <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    
-    <h2>
+    <h4>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
-    {{ post.excerpt }}
+    </h4>
   </li>
 {% endfor %}
 </ul>
