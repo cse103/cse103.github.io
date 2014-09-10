@@ -15,11 +15,14 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/Curriculum">Syllabus</a></li>
-        <li><a href="/Coordinates">Coordinates</a></li>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
         <li><a href="https://piazza.com/ucsd/fall2014/cse103/">Piazza</a></li>
         <li><a href="http://webwork.cse.ucsd.edu/webwork2">Webwork</a></li>
+
       </ul>
     </div>
   </div>
