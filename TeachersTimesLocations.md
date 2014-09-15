@@ -9,7 +9,7 @@ permalink: /Coordinates/
 |                         |                     |                           | Office hours                        | Office Hours Location    |
 |-------------------------+---------------------+---------------------------+-------------------------------------+--------------------------|
 | **Instructor:**         | Yoav Freund         | ![](images/2010yoav2.png) | Tuesday 10AM - Noon.                | Office #4126, CSE building |
-| **Teaching Assistant:** | Akshay Balsubramani |                           | Monday 4PM-5PM, Thursday 10AM-11AM  | Office #4142, CSE building |
+| **Teaching Assistant:** | Akshay Balsubramani | ![](images/ABportrait2.jpg) | Monday 4PM-5PM, Thursday 10AM-11AM  | Office #4142, CSE building |
 | **Teaching Assistant:** | Ibrahim Awwal       |                           | Wednesday 11AM-12PM, Friday 10AM-11AM |                          |
 * *Teaching Assistants*: 
 	* Akshay
