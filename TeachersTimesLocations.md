@@ -5,18 +5,24 @@ permalink: /Coordinates/
 ---
 
 ## Instruction Staff ##
-* **Instructor:** Yoav Freund <Photo>
-  * **Office Hours:** Tuesday 10AM - Noon. Office #4126 CSE buiding
+
+|                 |               |                         |   Office hours      | Office Hours Location      |
+|-----------------|:--------------|-------------------------|---------------------|----------------------------|
+| **Instructor:** | Yoav Freund | ![](images/2010yoav2.png) | Tuesday 10AM - Noon.| Office #4126 CSE buiding    |
+
+
 * *Teaching Assistants*: 
 	* Akshay
-	  * Office Hours:
+	  * Office Hours: FILLIN
     * Ibrahim
-	  * Office Hours:
+	  * Office Hours: FILLIN
 * Tutors:
 	* TBD
-	
+
+To contact the teaching staff send a private message through Piazza (link)
+
 -------------------
-## Times and Locations ##
+## Classrooms ##
 
 * Class:
 	* **location:** Center 215
