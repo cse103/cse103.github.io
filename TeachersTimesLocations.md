@@ -8,8 +8,8 @@ permalink: /Coordinates/
 
 |                         |                     |                           | Office hours                        | Office Location           | E-mail address      |
 |-------------------------+---------------------+---------------------------+-------------------------------------+---------------------------+---------------------|
-| **Instructor:**         | Yoav Freund         | ![](images/2010yoav2.png) | Tuesday 10AM - Noon.                | Office #4126, CSE building |
-| **Teaching Assistant:** | Akshay Balsubramani | ![](images/ABportrait2.jpg) | Monday 4PM-5PM, Thursday 10AM-11AM  | Office #4142, CSE building | abalsubr@ucsd.edu |
+| **Instructor:**         | Yoav Freund         | ![](/images/2010yoav2.png) | Tuesday 10AM - Noon.                | Office #4126, CSE building |
+| **Teaching Assistant:** | Akshay Balsubramani | ![](/images/ABportrait2.jpg) | Monday 4PM-5PM, Thursday 10AM-11AM  | Office #4142, CSE building | abalsubr@ucsd.edu |
 | **Teaching Assistant:** | Ibrahim Awwal       |                           | Wednesday 11AM-12PM, Friday 10AM-11AM |                          |
 * Tutors:
 	* TBD
