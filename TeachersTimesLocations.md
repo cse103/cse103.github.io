@@ -27,3 +27,6 @@ To contact the teaching staff send a private message through [Piazza](https://pi
         *Instructor:* Akshay Balsubramani
 	* **Section 2 :** Fri 9:00 - 9:50am *Location:* CENTR TBD
         *Instructor:* Ibrahim Awwal
+* Final Exam:
+	* **Location:** TBD
+	* **Time:** Wednesday, Dec. 17, 3-6pm
