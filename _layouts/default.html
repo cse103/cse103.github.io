@@ -2,18 +2,32 @@
 <html>
 
   {% include head.html %}
-  <body>
+  <body data-spy="scroll" data-target="#side-nav-toc">
 
     {% include header.html %}
     <!-- MAIN CONTENT -->
     <div class="container">
       <div class="row">
-        <div id="main_content_wrap"  class="col-md-9">
+        <div id="main_content_wrap"  class="col-md-9" >
+          <h1>{{ page.title }}</h1>
           {{ content }}
         </div>
-        <div class="col-md-3">
-          <ul class="nav nav-stacked" id="side_nav">
+        <div class="col-md-3 hidden-xs hidden-sm" id="right-sidebar">
+          <h4>Recent Announcements</h4>
+          <ul class="nav" id="posts-sidebar">
+            {% for post in site.posts %}
+            <li>
+              <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </li>
+            {% endfor %}
           </ul>
+          {% if page.disableTOC != true %}
+          <div id="side-nav-toc" class="affix">
+            <h4>Contents</h4>
+            <ul class="nav nav-stacked nav-pills">
+            </ul>
+          </div>
+          {% endif %}
         </div>
       </div>
     </div>
