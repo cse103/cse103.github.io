@@ -25,7 +25,7 @@ To contact the teaching staff send a private message through [Piazza](https://pi
 * Sections:
 	* **Section 1 :** Mon: 5:00 - 5:50pm *Location:* CENTR 119
         *Instructor:* Akshay Balsubramani
-	* **Section 2 :** Fri 9:00 - 9:50am *Location:* CENTR TBD
+	* **Section 2 :** Fri 4:00 - 4:50pm *Location:* CENTR 119
         *Instructor:* Ibrahim Awwal
 * Final Exam:
 	* **Location:** TBD
