@@ -10,11 +10,9 @@ permalink: /Coordinates/
 |-------------------------+---------------------+------------------------------+---------------------------------------+----------------------------+-------------------|
 | **Instructor:**         | Yoav Freund         | ![](/images/2010yoav2.png)   | Tuesday 10AM - Noon.                  | Office #4126, CSE building |                   |
 | **Teaching Assistant:** | Akshay Balsubramani | ![](/images/ABportrait2.jpg) | Monday 4PM-5PM, Thursday 10AM-11AM    | Office #4142, CSE building | abalsubr@ucsd.edu |
-| **Teaching Assistant:** | Ibrahim Awwal       | ![](/images/ibrahim.jpg)     | Wednesday 11AM-12PM, Friday 10AM-11AM |                            | iawwal@ucsd.edu   |
-| **Teaching Assistant:** | Sanjeev Rao         | ![](/images/sjrao.jpg)       | Wednesday 11AM-12PM, Friday 11AM-12PM| Office #4223, CSE building|sjrao@ucsd.edu    |
+| **Teaching Assistant:** | Ibrahim Awwal       | ![](/images/ibrahim.jpg)     | Tuesday  12PM-1PM, Friday 10AM-11AM   | Office #4223, CSE building | iawwal@ucsd.edu   |
+| **Teaching Assistant:** | Sanjeev Rao         | ![](/images/sjrao.jpg)       | Wednesday 11AM-12PM, Friday 11AM-12PM | Office #4223, CSE building | sjrao@ucsd.edu    |
 | **Tutor:**              | Janet Zhen Zhai     | ![](/images/Janet.jpg)       | Monday 10AM-11AM, Wednesday 10AM-11AM | Office #4223, CSE building | zzhai@ucsd.edu    |
-* Tutors:
-	* TBD
 
 To contact the teaching staff send a private message through [Piazza](https://piazza.com/ucsd/fall2014/cse103/).
 
