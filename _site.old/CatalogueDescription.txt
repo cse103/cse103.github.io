@@ -1,0 +1,2 @@
+CSE 103. A Practical Introduction to Probability and Statistics (4)
+Distributions over the real line. Independence, expectation, conditional expectation, mean, variance. Hypothesis testing. Learning classifiers. Distributions over R^n, covariance matrix. Binomial, Poisson distributions. Chernoff bound. Entropy. Compression. Arithmetic coding. Maximal likelihood estimation. Bayesian estimation. CSE 103 is not duplicate credit for ECE 109, Econ 120A, or Math 183. Prerequisites: Math 20A and Math 20B.

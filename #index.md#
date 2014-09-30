@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div id="posts">
+<ul class="post-list">
+{% for post in site.posts %}
+  <li>
+    <h4>
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h4>
+  </li>
+{% endfor %}
+</ul>
+</div>
